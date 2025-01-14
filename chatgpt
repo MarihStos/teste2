@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina Power Box</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Adicione um arquivo CSS para estilização -->
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #000;
+            color: #E0E0E0;
+        }
+        .section {
+            padding: 30px 0;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .section-1 {
+            background-image: url('https://ericsilvapro.com/wp-content/uploads/2023/02/TOPOPB02.jpg');
+            background-position: top center;
+        }
+        .section-2, .section-3, .section-4, .section-5 {
+            background-color: #000;
+        }
+        .section-6 {
+            background-image: url('https://ericsilvapro.com/wp-content/uploads/2023/02/BBONUSPB.jpg');
+            background-position: top center;
+        }
+        .section-7 {
+            background-image: url('https://ericsilvapro.com/wp-content/uploads/2023/02/BPRECOPB.jpg');
+            background-position: top center;
+        }
+        .section-8 {
+            background-image: url('https://ericsilvapro.com/wp-content/uploads/2023/02/BMODULOSPB.jpg');
+            background-position: top center;
+        }
+        .column {
+            width: 50%;
+            float: left;
+            padding: 10px;
+        }
+        .center {
+            text-align: center;
+        }
+        .left {
+            text-align: left;
+        }
+        .button {
+            background-color: #FFAE1E;
+            color: #000;
+            padding: 10px;
+            text-align: center;
+            display: inline-block;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="section section-1">
+        <div class="column left">
+            <img src="https://ericsilvapro.com/wp-content/uploads/2023/02/logotipo-powerbox2.webp" alt="Logotipo Power Box" style="width: 85%;">
+            <h1 style="color: #deb660;">CONQUISTE CENTENAS DE VENDAS COM SEU INFOPRODUTO EM QUALQUER TIPO DE PLATAFORMA</h1>
+            <p>Faça como os maiores produtores da web aprendendo a transformar seu produto em uma verdadeira máquina de vendas, Aprenda do zero passo a passo.</p>
+            <a href="#" class="button">QUERO GARANTIR O MEU CURSO</a>
+        </div>
+        <div class="column">
+            <!-- Conteúdo adicional pode ser adicionado aqui -->
+        </div>
+    </div>
+    <div class="section section-2">
+        <div class="column">
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/XHOmBV4js_E" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="column center">
+            <h1 style="color: #FFAE1E;">ASSISTA O VÍDEO PARA DESCOBRIR O SEGREDO QUE GERA MILHARES DE VENDAS</h1>
+            <p>Eu abro a caixa preta que me faz faturar mais de R$ 10 mil todos os meses, apenas atendendo os infoprodutores e afiliados do mercado digital.</p>
+        </div>
+    </div>
+    <div class="section section-3">
+        <div class="column">
+            <div class="center">
+                <img src="https://ericsilvapro.com/wp-content/uploads/2023/02/BONUS-01POWER.png" alt="Bônus 1" style="width: 61%;">
+                <img src="https://ericsilvapro.com/wp-content/uploads/2023/02/BONUS-02-POWER.png" alt="Bônus 2" style="width: 61%;">
+                <img src="https://ericsilvapro.com/wp-content/uploads/2023/02/BONUS-03-POWER.png" alt="Bônus 3" style="width: 61%;">
+            </div>
+        </div>
+        <div class="column">
+            <!-- Conteúdo adicional pode ser adicionado aqui -->
+        </div>
+    </div>
+    <div class="section section-4">
+        <div class="column">
+            <h1 style="color: #FFFFFF;">PERGUNTAS FREQUENTES</h1>
+            <ul>
+                <li>Qual o formato do curso? - Você terá acesso a diversas aulas em vídeo (passo a passo) + Bônus Especiais.</li>
+                <li>Quais as formas de pagamento? - Você tem como opções de pagamento via cartão de crédito, boleto, PIX ou PayPal.</li>
+                <li>Ainda não recebi o curso, o que fazer? - Verifique as caixas de spam/lixo/outros de seu e-mail, pois o link de acesso pode ser redirecionado para algumas dessas pastas.</li>
+                <li>Como você receberá o curso? - Assim que seu pedido for aprovado, o link de acesso ao curso será enviado ao seu e-mail, onde você terá acesso à sua área de membros do curso com login e senha pessoal.</li>
+                <li>Tenho que pagar alguma mensalidade? - Não, esse valor é único. Sem qualquer taxa ou mensalidade adicional.</li>
+                <li>Por quanto tempo terei acesso ao curso? - Você terá acesso ao curso por 1 ano, podendo acessar quantas vezes quiser nesse período, e caso não se sinta satisfeito com sua compra, você pode fazer o cancelamento em até 7 dias.</li>
+            </ul>
+        </div>
+        <div class="column">
+            <!-- Conteúdo adicional pode ser adicionado aqui -->
+        </div>
+    </div>
+    <div class="section section-5">
+        <div class="column center">
+            <img src="https://ericsilvapro.com/wp-content/uploads/2023/02/logotipo-powerbox2.webp" alt="Logotipo Power Box" style="width: 43%;">
+            <div>
+                <p>Promoção limitada de <span style="color: #E31515;">R$ 497,00 por</span> <span style="color: #FFAE04;">10X de R$ 14,70</span> ou <span style="color: #FFC100;">R$ 147 à vista</span></p>
+            </div>
+            <div>
+                <a href="#" class="button" style="background-color: #0C0C0B; color: #FFFFFF;">QUERO GARANTIR O MEU CURSO</a>
+            </div>
+            <div>
+                <img src="https://ericsilvapro.com/wp-content/uploads/2023/02/branquinhu.png.webp" alt="Forma de Pagamento" style="width: 57%;">
+            </div>
+        </div>
+    </div>
+    <div class="section section-6">
+        <div class="column">
+            <!-- Conteúdo adicional pode ser adicionado aqui -->
+        </div>
+        <div class="column">
+            <!-- Conteúdo adicional pode ser adicionado aqui -->
+        </div>
+    </div>
+    <div class="section section-7">
+        <div class="column">
+            <!-- Conteúdo adicional pode ser adicionado aqui -->
+        </div>
+        <div class="column">
+            <!-- Conteúdo adicional pode ser adicionado aqui -->
+        </div>
+    </div>
+    <div class="section section-8">
+        <div class="column center">
+            <img src="https://ericsilvapro.com/wp-content/uploads/2023/02/logotipo-powerbox2.webp" alt="Logotipo Power Box" style="width: 64%;">
+            <p>Copyright © 2021 - Curso POWER BOX ® 2021 - CNPJ sob 041.000.083/0001-00 - Todos os Direitos Reservados. ESTE SITE NÃO É DO FACEBOOK: Este Site Não Faz Parte Do Site Do Facebook Ou Do Facebook Inc. Além Disso, Este Site NÃO É Endossado Pelo Facebook De Nenhuma Maneira. FACEBOOK É Uma Marca Comercial Independente Da FACEBOOK, Inc. *Os Resultados Variam De Pessoa Para Pessoa, Seus Objetivos E Esforço.</p>
+        </div>
+    </div>
+</body>
+</html>
